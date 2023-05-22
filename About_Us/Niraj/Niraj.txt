@@ -1,1 +1,18 @@
-Hello My Name is Niraj
+Hello,
+
+My Name is Niraj Mangukiya.
+
+I Am studing computer engneering in Gujrat Technological University.
+
+My skills in coding is,
+1)I have same knowledge of basic javscript and also basic java.
+2)I have knowledge of basic c language.
+3)I have same knowledge of basic python.
+4)I have same knowledge of HTML and also css.
+This all my coding skills.
+
+Other Information about my self is my hobbies,
+1)I like to play a spots. 
+2)I like to play and watch a cricket.
+
+ 
